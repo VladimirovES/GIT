@@ -61,5 +61,6 @@ Merge pull request
 git checkout main
 git pull
 ```
+С вопросами сюда (картинка кликабельна)
 [![telegram](https://i.ibb.co/6tvL4vz/helloo.png)](https://t.me/vladimirov_ES)
 
