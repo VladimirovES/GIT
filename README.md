@@ -1,5 +1,5 @@
 ## GitHub.
-# HW_2.1
+# HW 2.1
 
 1. На локальном репозитории сделать ветки для:
 Postman, Jmeter, Checklists, BagReports, SQL, Charles, MobileTesting
