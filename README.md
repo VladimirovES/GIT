@@ -50,6 +50,10 @@ git push -u origin Checklists
 ```
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 ```
+Compare $ pull request. 
+Выбираем из Checklists в main
+Добавляем комментарий (опционально)
+Merge pull request
 Статус: "Pull request successfully merged and closed"
 ```
 10. Синхронизировать Внешнюю и Локальную ветки Main
@@ -57,4 +61,5 @@ git push -u origin Checklists
 git checkout main
 git pull
 ```
+[![telegram](https://i.ibb.co/6tvL4vz/helloo.png)](https://t.me/vladimirov_ES)
 
