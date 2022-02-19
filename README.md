@@ -35,7 +35,7 @@ git merge BagReports
 ```
 6.  Запушить main на внешний репозиторий
 ```
-git push origin -u main
+git push -u origin main
 ```
 7. В ветке CheckLists набросать структуру чек листа.
 ```
